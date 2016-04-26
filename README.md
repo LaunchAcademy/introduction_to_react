@@ -8,7 +8,7 @@ $ webpack-dev-server
 
 If you get something like:
 
-``sh
+```sh
 zsh: command not found: webpack-dev-server
 ```
 
